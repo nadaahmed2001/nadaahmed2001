@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nada Ahmed</h1>
-<h3 align="center">A computer science student in FCAI, seeking to improve my skills</h3>
+<h3 align="center">A computer science student in FCAI who is in love with computing and programming, looking forward and seeking to improve my skills</h3>
 
 - 📫 How to reach me: **nada.fcai@gmail.com**
 
