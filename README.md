@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nada Ahmed</h1>
 <h3 align="center">A computer science student in FCAI who is in love with computing and programming, looking forward and seeking to improve my skills</h3>
 
-Profile Hits:<br> 
-  [![HitCount](https://hits.dwyl.com/nadaahmed2001/nadaahmed2001.svg?style=flat-square)](http://hits.dwyl.com/nadaahmed2001/nadaahmed2001)
 
 - 📫 How to reach me: **nada.fcai@gmail.com**
 
