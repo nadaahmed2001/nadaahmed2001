@@ -1,9 +1,18 @@
 <h1 align="center">Hi 👋, I'm Nada Ahmed</h1>
 <h3 align="center">A computer science student in FCAI who is in love with computing and programming, looking forward and seeking to improve my skills</h3>
-<h3 align="center">I'm interested in Web Development, Problem Solving, Software Testing and Automation :star_struck: </h3>
-
 
 - 📫 How to reach me: **nada.fcai@gmail.com**
+
+<h3 align="left">🔭 Interests:</h3>
+
+- **Web Development:**
+  I find great joy in creating interactive and user-friendly web applications, leveraging the latest technologies and frameworks.
+
+- **Problem Solving:**
+  I love tackling complex challenges and finding efficient solutions through analytical thinking and logical reasoning.
+
+- **Software Testing and Automation:**
+  I really enjoy exploring various testing methodologies and tools. Automating repetitive tasks not only saves time but also improves productivity. I'm fascinated by the power of automation in simplifying processes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
