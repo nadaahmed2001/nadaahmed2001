@@ -5,14 +5,16 @@
 
 <h3 align="left">🔭 Interests:</h3>
 
-- **Web Development:**
-  I find great joy in creating interactive and user-friendly web applications, leveraging the latest technologies and frameworks.
-
+- **Software Testing and Automation:**
+  I really enjoy exploring various testing methodologies and tools. Automating repetitive tasks not only saves time but also improves productivity. I'm fascinated by the power of automation in simplifying processes.
+  
 - **Problem Solving:**
   I love tackling complex challenges and finding efficient solutions through analytical thinking and logical reasoning.
 
-- **Software Testing and Automation:**
-  I really enjoy exploring various testing methodologies and tools. Automating repetitive tasks not only saves time but also improves productivity. I'm fascinated by the power of automation in simplifying processes.
+- **Web Development:**
+  I find great joy in creating interactive and user-friendly web applications, leveraging the latest technologies and frameworks.
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
