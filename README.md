@@ -6,7 +6,7 @@
 <h3 align="left">🔭 Interests:</h3>
 
 - **Software Testing and Automation:**
-  I really enjoy exploring various testing methodologies and tools. Automating repetitive tasks not only saves time but also improves productivity. I'm fascinated by the power of automation in simplifying processes.
+  I really enjoy exploring various testing methodologies and tools. I'm fascinated by the power of automation in simplifying processes, I have hands-on experience with JUnit (Java), Selenium (Java), and Robot Framework, and I am motivated to further expand my skills in this field
   
 - **Problem Solving:**
   I love tackling complex challenges and finding efficient solutions through analytical thinking and logical reasoning.
