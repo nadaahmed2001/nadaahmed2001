@@ -3,6 +3,7 @@
 
 - 📫 How to reach me: **nada.fcai@gmail.com**
 
+<!--
 <h3 align="left">🔭 Interests:</h3>
 
 - **Software Testing and Automation:**
@@ -10,8 +11,7 @@
   
 - **Problem Solving:**
   I love tackling complex challenges and finding efficient solutions through analytical thinking and logical reasoning.
-
-
+-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
