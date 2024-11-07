@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nada Ahmed</h1>
-<h3 align="center">A computer science student in FCAI who is in love with computing and programming, looking forward and seeking to improve my skills</h3>
+<h3 align="center">A computer science fresh graduate with a passion for computing and programming, always eager to learn and improve. Currently enrolled in the ITI 4-month scholarship program, specializing in Full Stack Web Development with Python. Excited to dive deeper into web technologies and expand my skills in software engineering</h3>
 
 - 📫 How to reach me: **nada.fcai@gmail.com**
 
